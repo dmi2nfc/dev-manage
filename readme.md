@@ -1,4 +1,4 @@
-<p>Devs managements app</p>
+<p>Devs management app</p>
 ## Small app for manage yourdevelopers
 <p>To install app, run following commands in root folder:</p>
 <p>1) composer update   //install all php packages for laravel</p>
